@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="no_student">Student doesn\'t exist. Tap + to add</string>
+    <string name="back_button">Back</string>
+    <string name="add_student">Add New Student</string>
+    <string name="student_name_req">Student Name</string>
+    <string name="student_birthplace_req">Birthplace\n</string>
+    <string name="student_email_req">Email</string>
+    <string name="student_phone_req">Phone Number</string>
+    <string name="student_gender_req">Gender (Male / Female)</string>
+    <string name="save_action">Save</string>
+    <string name="entry_title">Add Student Data</string>
+    <string name="edit_item_title">Edit Student Data</string>
+    <string name="delete">Delete Student</string>
+</resources>
